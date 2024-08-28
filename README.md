@@ -1,4 +1,4 @@
-## Hi there 👋
+Howdy! I'm Earth!
 
 <!--
 **EarthQX41/EarthQX41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
